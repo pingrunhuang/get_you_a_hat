@@ -1,0 +1,4 @@
+MyChristmasHat
+
+opencv==3.3.0
+dlib==19.4
